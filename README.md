@@ -9,7 +9,7 @@ Welcome to the Nike Ecommerce Platform repository! This project is a comprehensi
 ### Features
 
 - Product Catalog: Browse through a variety of Nike products with detailed views.
-  <p align="center">
+  <p align="center mr-4">
     <img src="appScreenshots/home.jpg" alt="Home Page" width="300"/>
     <img src="appScreenshots/addedToCart.jpg" alt="Cart" width="300"/>
   </p>
