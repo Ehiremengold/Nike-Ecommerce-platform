@@ -1,5 +1,8 @@
 # Nike Ecommerce Platform
-  ![Landing Page](appScreenshots/landing.jpg)
+  <!-- ![Landing Page](appScreenshots/landing.jpg) -->
+  <p align="center">
+    <img src="appScreenshots/landing.jpg" alt="Landing Page" width="300"/>
+  </p>
 Welcome to the Nike Ecommerce Platform repository! This project is a comprehensive ecommerce application built using Flutter, designed to provide a seamless and engaging shopping experience for Nike products. The application features a wide range of functionalities, including product browsing, detailed product views, and shopping cart management.
 
 ### Features
